@@ -1,0 +1,53 @@
+# 📌 必须使用美国 IP 才能正常使用的服务域名
+
+# PayPal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+
+# TextNow
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,textnow.me
+
+# Google Voice / Hangouts（需美区使用）
+DOMAIN-SUFFIX,voice.google.com
+DOMAIN-SUFFIX,hangouts.google.com
+
+# T-Mobile
+DOMAIN-SUFFIX,t-mobile.com
+
+# Mint Mobile
+DOMAIN-SUFFIX,mintmobile.com
+
+# Venmo（PayPal 旗下）
+DOMAIN-SUFFIX,venmo.com
+
+# Cash App（Block）
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,square.com
+
+# Google Fi
+DOMAIN-SUFFIX,fi.google.com
+
+# Hulu（流媒体，美区限制）
+DOMAIN-SUFFIX,hulu.com
+
+# Peacock（NBC，美国本土流媒体）
+DOMAIN-SUFFIX,peacocktv.com
+
+# HBO Max（美国限定内容）
+DOMAIN-SUFFIX,hbomax.com
+
+# Uber（定位验证）
+DOMAIN-SUFFIX,uber.com
+DOMAIN-SUFFIX,uberstatic.com
+
+# OpenAI（部分接口检测地区）
+DOMAIN-SUFFIX,openai.com
+
+# Social Security / IRS（税务）
+DOMAIN-SUFFIX,irs.gov
+DOMAIN-SUFFIX,ssa.gov
