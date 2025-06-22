@@ -1,0 +1,61 @@
+# NAME: USA blocked Domains
+# TOTAL: 1
+# 📌 被美国限制的加密平台域名（不含 Bybit）
+
+# Binance 国际版
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binancezh.cc
+
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+
+# KuCoin
+DOMAIN-SUFFIX,kucoin.com
+
+# MEXC
+DOMAIN-SUFFIX,mexc.com
+
+# Gate.io
+DOMAIN-SUFFIX,gate.io
+
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+
+# Deribit
+DOMAIN-SUFFIX,deribit.com
+
+# dYdX
+DOMAIN-SUFFIX,dydx.exchange
+
+# Bitfinex
+DOMAIN-SUFFIX,bitfinex.com
+
+# Huobi（HTX）
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,htx.com
+
+# Tornado Cash
+DOMAIN-SUFFIX,tornado.cash
+
+# Kaspi（哈萨克支付）
+DOMAIN-SUFFIX,kaspi.kz
+
+# Trust Wallet
+DOMAIN-SUFFIX,trustwallet.com
+
+# MetaMask
+DOMAIN-SUFFIX,metamask.io
+
+# Uniswap
+DOMAIN-SUFFIX,uniswap.org
+
+# 1inch
+DOMAIN-SUFFIX,1inch.io
+
+# SushiSwap
+DOMAIN-SUFFIX,sushi.com
+
+# 🔚 全部未匹配的走默认策略（此规则集不写 FINAL）
