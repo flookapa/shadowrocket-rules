@@ -5,8 +5,8 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 
 # Wise
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,transferwise.com
+#DOMAIN-SUFFIX,wise.com
+#DOMAIN-SUFFIX,transferwise.com
 
 # TextNow
 DOMAIN-SUFFIX,textnow.com
